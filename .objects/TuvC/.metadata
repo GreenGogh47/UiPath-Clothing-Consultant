@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Options Page",
+  "Type": "App",
+  "Id": "TuvClfJvzUSfZ12mpCHK8w",
+  "Reference": "EP7wnqo0fUyKTbtqjk3vfQ/TuvClfJvzUSfZ12mpCHK8w",
+  "Created": "2026-10-26T22:44:14.7273984Z",
+  "Updated": "2026-10-26T22:44:14.7273984Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

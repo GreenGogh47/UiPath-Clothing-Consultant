@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into 'TEXTAREA ti6dpd'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "cVbBwxbV_0WkfrMuRQUMzQ",
+  "Reference": "EP7wnqo0fUyKTbtqjk3vfQ/cVbBwxbV_0WkfrMuRQUMzQ",
+  "ParentRef": "EP7wnqo0fUyKTbtqjk3vfQ/h_DXFFkd00ah1EYkb-C6BA",
+  "Created": "2026-10-28T02:03:19.2970845Z",
+  "Updated": "2026-10-28T02:03:19.2970845Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

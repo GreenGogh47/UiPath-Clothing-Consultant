@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Options Page",
+  "Type": "Screen",
+  "Id": "RAI_uCJM106oIrUJHl_uRQ",
+  "Reference": "EP7wnqo0fUyKTbtqjk3vfQ/RAI_uCJM106oIrUJHl_uRQ",
+  "ParentRef": "EP7wnqo0fUyKTbtqjk3vfQ/OMFG5ewaTkifJPNvud3Qdw",
+  "Created": "2026-10-26T22:44:15.0244896Z",
+  "Updated": "2026-10-26T22:44:15.0244896Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

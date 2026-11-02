@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Light rain",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "d2QpyhZf0k6OeK9nZRYYow",
+  "Reference": "EP7wnqo0fUyKTbtqjk3vfQ/d2QpyhZf0k6OeK9nZRYYow",
+  "ParentRef": "EP7wnqo0fUyKTbtqjk3vfQ/RAI_uCJM106oIrUJHl_uRQ",
+  "Created": "2026-11-02T18:10:45.0513998Z",
+  "Updated": "2026-11-02T18:10:45.0513998Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
